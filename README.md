@@ -19,9 +19,3 @@ TravelGo is a frontend web application designed to provide a comprehensive trave
 ## Live Demo
 
 Experience the TravelGo application live at [Live Demo](https://travelgo-ott8.onrender.com).
-
-
-1. **Clone the Repository**
-
-   ```bash
-   git clone https://github.com/your-username/travelgo.git
